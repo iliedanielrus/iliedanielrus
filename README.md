@@ -6,7 +6,7 @@ I'm **Ilie Daniel Rus**, and I'm passionate about building software that works �
 
 ### 🚀 About Me
 
-I'm a recent **Computer Science graduate from UBB Cluj-Napoca**, currently exploring the intersection between software, systems design and project management. I thrive on challenges and love bringing structure to chaos — be it in code or in people-centered projects.
+I'm a **Computer Science graduate from UBB Cluj-Napoca** and former student year representative currently exploring the intersection between software development, systems design and project management. I thrive on challenges and love bringing structure to chaos — be it in code or in people-centered projects.
 
 🧠 I enjoy simplifying problems, organizing work, and creating value through clarity and collaboration.
 
@@ -20,11 +20,6 @@ Here are a few public repositories (you will find the application description in
 - 🧠 [Toy Language Interpreter](https://github.com/iliedanielrus/Toy-Language-Interpreter) 
 - 🐶 [Dog Shelter Management App](https://github.com/iliedanielrus/Dog-Shelters-Management-Application) 
 - 🧑‍💼 [Client/Product Manager](https://github.com/iliedanielrus/Client-Product-Management-Application)
-
----
-
-### 📍 Based in
-Cluj-Napoca, Romania 🇷🇴
 
 ---
 
